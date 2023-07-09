@@ -1,0 +1,62 @@
+
+.readyLogo{
+    width: 30%;
+    margin-top: 30%;
+    margin-left: 0.1%;
+    margin-bottom: 20%;
+}
+
+.readyTitle{
+    margin-left: 15%;
+    margin-bottom: 10%;
+    color: #9885B8;
+    font-size: x-large;
+    font-family: 'Sunshine-Bold';
+    text-align: left;
+}
+
+@media only screen and (max-width: 300px) {
+    .readyTitle{
+        margin-top: 10%;
+        margin-left: 15%;
+        margin-bottom: 10%;
+        color: #9885B8;
+        font-size: large;
+        font-family: 'Sunshine-Bold';
+        text-align: left;
+    }
+}
+
+.readyButtonStyle{
+    margin-bottom: 10px;
+    color: #9885B8;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+}
+
+.readyButton{
+    margin-top: 5%;
+    margin-bottom: 20%;
+    width: 75%;
+    height: 3.5em;
+    background-color: white;
+    color: #9885B8;
+    border-radius: 15px;
+    font-size: medium;
+    font-family: 'Sunshine-Bold';
+}
+
+@media only screen and (max-width: 300px) {
+    .readyButton{
+        margin-top: 5%;
+        margin-bottom: 20%;
+        width: 75%;
+        height: 3em;
+        background-color: white;
+        color: #9885B8;
+        border-radius: 10px;
+        font-size: small;
+        font-family: 'Sunshine-Bold';
+    }
+}

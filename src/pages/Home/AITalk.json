@@ -1,0 +1,14 @@
+{
+    "aitext":
+    [
+        {
+            "voicetext": "어서오세요!    래더입니다"
+        }
+    ],
+    "usertext":
+    [
+        {
+            "voicetext": "환영합니다"
+        }
+    ]
+}
